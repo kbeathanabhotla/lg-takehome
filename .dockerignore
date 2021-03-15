@@ -1,0 +1,9 @@
+.github
+.pytest_cache
+tests
+venv
+.gitignore
+Dockerfile
+README.md
+requirements-build.txt
+requirements-test.txt
